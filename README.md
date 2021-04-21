@@ -24,3 +24,4 @@ Nadien kunnen jullie de testen als volgt uitvoeren:
 ```bash
 pytest
 ```
+Bijna weekend!!!
