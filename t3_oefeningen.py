@@ -25,7 +25,7 @@ def volume_cilinder(r, h):
 
 
 
-def volume_kubus():
+def volume_kubus(zijde):
 
-    resultaat = 3
+    resultaat = zijde**3
     return resultaat
