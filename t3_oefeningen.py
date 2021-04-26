@@ -20,12 +20,10 @@ def volume_cilinder(r, h):
     pi = 3.14
     oppervlakte_cirkel()
     resultaat = pi*r**2*h
-
     return resultaat
 
 
 
 def volume_kubus(zijde):
-
     resultaat = zijde**3
     return resultaat
