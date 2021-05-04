@@ -4,7 +4,7 @@ def bmi(gewicht, lengte):
 
 def omtrek_cirkel(r):
     pi = 3.14
-    reslut = 2 * pi * r
+    resultaat = 2 * pi * r
     return resultaat
 
 def oppervlakte_cirkel(r):
