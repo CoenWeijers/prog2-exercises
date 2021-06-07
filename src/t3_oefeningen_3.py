@@ -55,7 +55,7 @@ def rekeningnummer_controlegetal(n):
     """
     
 
-    return 0
+    return -1
 
 
 def rekeningnummer_hoofdgetal(n):
